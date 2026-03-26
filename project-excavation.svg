@@ -1,0 +1,15 @@
+<svg width="520" height="380" viewBox="0 0 520 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="380" rx="28" fill="#173125"/>
+  <rect x="28" y="28" width="464" height="324" rx="20" fill="#244335"/>
+  <path d="M40 283C120 255 211 244 286 255C368 268 430 299 480 338H40V283Z" fill="#5F6F3A"/>
+  <path d="M136 250H262L299 194H345L379 229H445V262H136V250Z" fill="#C96B27"/>
+  <rect x="146" y="171" width="77" height="61" rx="10" fill="#FFF7E6"/>
+  <rect x="159" y="182" width="48" height="33" rx="6" fill="#A2C1D8"/>
+  <circle cx="215" cy="268" r="25" fill="#0F2018"/>
+  <circle cx="215" cy="268" r="11" fill="#FFF7E6"/>
+  <circle cx="375" cy="270" r="34" fill="#0F2018"/>
+  <circle cx="375" cy="270" r="14" fill="#FFF7E6"/>
+  <path d="M262 247H321L356 128H388L356 247H438" stroke="#FFF7E6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="48" y="74" fill="#FFF7E6" font-family="Arial, sans-serif" font-size="26" font-weight="700">PROJECT PHOTO PLACEHOLDER</text>
+  <text x="48" y="108" fill="#D7E1D9" font-family="Arial, sans-serif" font-size="18">Replace with excavation or site work photography.</text>
+</svg>

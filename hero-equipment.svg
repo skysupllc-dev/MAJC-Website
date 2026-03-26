@@ -1,0 +1,18 @@
+<svg width="720" height="540" viewBox="0 0 720 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="540" rx="36" fill="#173125"/>
+  <path d="M0 388C115 338 205 318 306 332C414 347 518 392 720 348V540H0V388Z" fill="#2E4A3A"/>
+  <path d="M72 367H250L307 286H371L418 338H505L553 282H632V388H72V367Z" fill="#C96B27"/>
+  <rect x="88" y="232" width="132" height="110" rx="18" fill="#FFF7E6"/>
+  <rect x="110" y="251" width="88" height="68" rx="8" fill="#A2C1D8"/>
+  <circle cx="183" cy="396" r="39" fill="#0F2018"/>
+  <circle cx="183" cy="396" r="18" fill="#FFF7E6"/>
+  <circle cx="531" cy="396" r="48" fill="#0F2018"/>
+  <circle cx="531" cy="396" r="21" fill="#FFF7E6"/>
+  <path d="M419 338L468 286H531L481 338H419Z" fill="#FFF7E6"/>
+  <path d="M250 363H333L393 214H442L390 363H563" stroke="#FFF7E6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="589" cy="143" r="39" fill="#5F6F3A"/>
+  <path d="M588 81V204" stroke="#5F6F3A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M644 143L532 143" stroke="#5F6F3A" stroke-width="18" stroke-linecap="round"/>
+  <text x="76" y="92" fill="#FFF7E6" font-family="Arial, sans-serif" font-size="34" font-weight="700">MAJC ENTERPRISE, LLC</text>
+  <text x="76" y="132" fill="#D7E1D9" font-family="Arial, sans-serif" font-size="21">Excavation • Driveways • Hardscaping • Washing</text>
+</svg>

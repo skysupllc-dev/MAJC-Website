@@ -1,0 +1,9 @@
+<svg width="520" height="380" viewBox="0 0 520 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="380" rx="28" fill="#E9DFC9"/>
+  <rect x="28" y="28" width="464" height="324" rx="20" fill="#FFF8EC"/>
+  <path d="M0 270C120 228 233 213 340 230C412 242 470 268 520 305V380H0V270Z" fill="#5F6F3A"/>
+  <path d="M248 70L348 160L297 352H211L168 182L248 70Z" fill="#C5B39A"/>
+  <path d="M256 89L317 161L285 352H226L197 178L256 89Z" fill="#8C8D86"/>
+  <text x="44" y="72" fill="#173125" font-family="Arial, sans-serif" font-size="26" font-weight="700">PROJECT PHOTO PLACEHOLDER</text>
+  <text x="44" y="106" fill="#5B5A51" font-family="Arial, sans-serif" font-size="18">Replace with an actual gravel driveway image.</text>
+</svg>

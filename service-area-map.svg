@@ -1,0 +1,13 @@
+<svg width="620" height="420" viewBox="0 0 620 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="620" height="420" rx="30" fill="#FFF8EC"/>
+  <rect x="24" y="24" width="572" height="372" rx="22" fill="#E7DECF"/>
+  <path d="M301 66L342 95L366 135L383 150L392 199L433 234L407 273L406 313L348 341L292 318L251 333L228 300L189 271L200 229L182 190L200 146L242 118L256 78L301 66Z" fill="#5F6F3A"/>
+  <path d="M301 66L342 95L366 135L383 150L392 199L433 234L407 273L406 313L348 341L292 318L251 333L228 300L189 271L200 229L182 190L200 146L242 118L256 78L301 66Z" stroke="#173125" stroke-width="10" stroke-linejoin="round"/>
+  <circle cx="320" cy="205" r="68" fill="#C96B27" fill-opacity="0.28"/>
+  <circle cx="320" cy="205" r="22" fill="#C96B27"/>
+  <path d="M320 117V293" stroke="#173125" stroke-width="6" stroke-dasharray="10 10"/>
+  <path d="M230 205H410" stroke="#173125" stroke-width="6" stroke-dasharray="10 10"/>
+  <text x="52" y="74" fill="#173125" font-family="Arial, sans-serif" font-size="28" font-weight="700">MAINE SERVICE AREA</text>
+  <text x="52" y="112" fill="#5B5A51" font-family="Arial, sans-serif" font-size="19">Update this graphic or replace it with your own local coverage map.</text>
+  <text x="280" y="382" fill="#173125" font-family="Arial, sans-serif" font-size="18" font-weight="700">MAJC</text>
+</svg>

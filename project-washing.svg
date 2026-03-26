@@ -1,0 +1,19 @@
+<svg width="520" height="380" viewBox="0 0 520 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="380" rx="28" fill="#D9E7EF"/>
+  <rect x="28" y="28" width="464" height="324" rx="20" fill="#F7FBFD"/>
+  <path d="M68 250H302V169H397L441 217V273H68V250Z" fill="#173125"/>
+  <rect x="90" y="187" width="83" height="42" rx="8" fill="#A2C1D8"/>
+  <rect x="192" y="187" width="83" height="42" rx="8" fill="#A2C1D8"/>
+  <rect x="331" y="186" width="42" height="31" rx="6" fill="#A2C1D8"/>
+  <circle cx="137" cy="283" r="28" fill="#0F2018"/>
+  <circle cx="137" cy="283" r="11" fill="#FFF7E6"/>
+  <circle cx="374" cy="283" r="28" fill="#0F2018"/>
+  <circle cx="374" cy="283" r="11" fill="#FFF7E6"/>
+  <path d="M424 117C398 127 386 152 380 180" stroke="#2E7BB4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M437 132C411 142 399 167 393 195" stroke="#2E7BB4" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="402" cy="187" r="7" fill="#2E7BB4"/>
+  <circle cx="418" cy="176" r="7" fill="#2E7BB4"/>
+  <circle cx="431" cy="191" r="7" fill="#2E7BB4"/>
+  <text x="44" y="74" fill="#173125" font-family="Arial, sans-serif" font-size="26" font-weight="700">PROJECT PHOTO PLACEHOLDER</text>
+  <text x="44" y="108" fill="#4E6470" font-family="Arial, sans-serif" font-size="18">Replace with pressure washing or equipment cleaning photography.</text>
+</svg>
